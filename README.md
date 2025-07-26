@@ -26,3 +26,6 @@ that promote equal access to communication for everyone.
 ined using a deep 
 neural network. The study achieved 95% accuracy for isolated word recognition using image 
 sequeNce.
+# output screenshots
+
+<img width="912" height="597" alt="Image" src="https://github.com/user-attachments/assets/a60180fb-1f1a-46b9-86ba-045ec9601bcd" />
