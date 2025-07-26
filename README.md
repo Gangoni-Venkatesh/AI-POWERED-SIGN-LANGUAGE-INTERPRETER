@@ -29,3 +29,4 @@ sequeNce.
 # output screenshots
 
 <img width="912" height="597" alt="Image" src="https://github.com/user-attachments/assets/a60180fb-1f1a-46b9-86ba-045ec9601bcd" />
+<img width="789" height="566" alt="Image" src="https://github.com/user-attachments/assets/1d18a06e-52f0-4a83-b513-8cd0259a7951" />
