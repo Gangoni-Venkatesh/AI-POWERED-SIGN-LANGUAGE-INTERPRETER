@@ -23,25 +23,6 @@ interpreter. It also discusses the challenges faced in recognizing nuanced gestu
 maintaining accuracy across different sign language dialects. By addressing these challenges, 
 the project aims to contribute to the development of scalable, reliable assistive technologies 
 that promote equal access to communication for everyone.  
-# LETERATURE SURVEY
-The development of AI-powered sign language interpreters has become a focal point of 
-research in human-computer interaction, accessibility technology, and computer vision. 
-With the rise of open-source tools like MediaPipe by Google, real-time hand tracking and 
-gesture recognition have become more accessible and efficient, making it feasible to build 
-practical sign language recognition systems using Python.   
-TITLE: Vision-Based Sign Language Recognition System Using CNN 
-AUTHOR: Arslan et al. (2020) 
-ABSTRACT: This paper proposed a deep learning-based sign language interpreter using 
-Convolutional Neural Networks (CNNs). It used real-time hand gesture recognition to 
-convert signs into text with 93% accuracy. 
-TITLE: Real-Time American Sign Language Detection Using TensorFlow 
-AUTHOR: Patel, M., Sharma, K. (2019) 
-ABSTRACT: The authors developed a webcam-based ASL recognition system using 
-TensorFlow and OpenCV. The system detected static gestures and classified them using a 
-CNN with live feedback. 
-TITLE: Sign Language Recognition Using Deep Learning 
-AUTHOR: Gupta, R., Singh, M. (2021) 
-ABSTRACT: A dataset of Indian Sign Language (ISL) was created and trained using a deep 
+ined using a deep 
 neural network. The study achieved 95% accuracy for isolated word recognition using image 
-sequences. 
-TITLE: Glove-Based Sign Language Translator Using Microcontrollers
+sequeNce.
